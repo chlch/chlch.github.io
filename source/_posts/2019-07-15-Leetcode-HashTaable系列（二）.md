@@ -2,9 +2,9 @@
 title: LeetCode HashTable系列（二）
 toc: true
 date: 2019-07-15 15:25:49
-tags: [LeetCode,BST,algorithm]
+tags: [LeetCode,HashTable,algorithm]
 category: LeetCode
-description: Leetcode HashTable 739/290
+description: LeetCode HashTable 739/290
 ---
 
 ### 739. Daily Temperatures

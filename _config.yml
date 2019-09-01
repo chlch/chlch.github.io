@@ -74,6 +74,11 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: maupassant
 
+Plugins:
+- hexo-generator-sitemap
+
+sitemap:
+    path: sitemap.xml
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
