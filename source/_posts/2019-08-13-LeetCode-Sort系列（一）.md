@@ -1,10 +1,14 @@
 ---
 title: LeetCode Sort系列（一）
 toc: true
-date: 2019-08-13 11:45:20
-tags: [LeetCode,Sort,algorithm]
+tags:
+  - LeetCode
+  - Sort
+  - algorithm
 category: LeetCode
 description: Leetcode Sort 1030/349/350/1122
+abbrlink: 934861492
+date: 2019-08-13 11:45:20
 ---
 
 ### 1030. Matrix Cells in Distance Order

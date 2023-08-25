@@ -1,10 +1,14 @@
 ---
 title: LeetCode Stack系列（一）
 toc: true
-date: 2019-08-01 10:47:31
-tags: [LeetCode,Stack,algorithm]
+tags:
+  - LeetCode
+  - Stack
+  - algorithm
 category: LeetCode
 description: Leetcode Stack 71/921/150/402
+abbrlink: 3534837077
+date: 2019-08-01 10:47:31
 ---
 
 ### 71. Simplify Path

@@ -1,10 +1,14 @@
 ---
 title: LeetCode Sort系列（三）
 toc: true
-date: 2020-02-05 17:57:03
-tags: [LeetCode,Sort,algorithm]
+tags:
+  - LeetCode
+  - Sort
+  - algorithm
 category: LeetCode
 description: Leetcode Sort 767/1054/147
+abbrlink: 1253086526
+date: 2020-02-05 17:57:03
 ---
 
 ### 767. Reorganize String

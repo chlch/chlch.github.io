@@ -1,10 +1,14 @@
 ---
 title: LeetCode HashTable系列（一）
-date: 2019-07-09 10:08:10
-tags: [LeetCode,HashTable,algorithm]
+tags:
+  - LeetCode
+  - HashTable
+  - algorithm
 category: LeetCode
 description: Leetcode HashTable 1002/500/884
 toc: true
+abbrlink: 2663958312
+date: 2019-07-09 10:08:10
 ---
 
 ### 1002.Find Common Characters

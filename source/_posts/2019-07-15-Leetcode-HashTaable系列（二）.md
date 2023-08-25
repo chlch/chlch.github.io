@@ -1,10 +1,14 @@
 ---
 title: LeetCode HashTable系列（二）
 toc: true
-date: 2019-07-15 15:25:49
-tags: [LeetCode,HashTable,algorithm]
+tags:
+  - LeetCode
+  - HashTable
+  - algorithm
 category: LeetCode
 description: LeetCode HashTable 739/290
+abbrlink: 2933795824
+date: 2019-07-15 15:25:49
 ---
 
 ### 739. Daily Temperatures

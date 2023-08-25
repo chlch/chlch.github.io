@@ -1,10 +1,14 @@
 ---
 title: JVM Run-Time Data Area
-date: 2019-06-27 10:19:44
-tags: [Java, JVM, Data Area]
+tags:
+  - Java
+  - JVM
+  - Data Area
 category: JVM
 description: Java虚拟机运行时数据区域
 toc: true
+abbrlink: 3388530098
+date: 2019-06-27 10:19:44
 ---
 
 这篇主要是阅读Java虚拟机规范做的摘录和笔记。<https://docs.oracle.com/javase/specs/jvms/se8/html>

@@ -1,10 +1,14 @@
 ---
 title: CodingBat  递归练习题解
 toc: true
-date: 2019-08-09 11:14:41
-tags: [递归, CodingBat, algorithm]
+tags:
+  - 递归
+  - CodingBat
+  - algorithm
 category: 算法
-description: 
+abbrlink: 519794628
+date: 2019-08-09 11:14:41
+description:
 ---
 
 一直以来，我理解递归都觉得很困难，简单点的还好，leetcode里有些复杂晦涩冗长的递归真的是太难理解了，所以特地从头训练一遍递归的题目找找感觉，<https://codingbat.com/java> 这个里面的递归练习的题目就很符合我的口味，循序渐进，第一部分的递归基础题目很简单，大概抽空花了两个早上做完了。这里主要记录第二部分难度稍微大一点的递归题目的我的题解。

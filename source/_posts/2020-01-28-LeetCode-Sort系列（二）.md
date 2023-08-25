@@ -1,10 +1,14 @@
 ---
 title: LeetCode Sort系列（二）
 toc: true
-date: 2020-01-28 22:50:21
-tags: [LeetCode,Sort,algorithm]
+tags:
+  - LeetCode
+  - Sort
+  - algorithm
 category: LeetCode
 description: Leetcode Sort 1329/1305/969
+abbrlink: 128857708
+date: 2020-01-28 22:50:21
 ---
 
 ### 1329 Sort the Matrix Diagonally

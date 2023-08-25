@@ -1,8 +1,11 @@
+---
 title: 面试系列
-date: 2019-03-20 23:17:21
-tags: [面试]
+tags:
+  - 面试
 category: 面试
 description: 面试
+abbrlink: 4210655339
+date: 2019-03-20 23:17:21
 ---
 
 # Java基础
